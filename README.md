@@ -75,10 +75,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
-##  Author
 
-Made by **[Salah Ahmed](https://www.linkedin.com/in/your-profile)**  
----
+
 
 ##  Output
 
