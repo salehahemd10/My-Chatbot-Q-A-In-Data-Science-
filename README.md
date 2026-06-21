@@ -95,8 +95,7 @@ This project is licensed under the **MIT License**.
 
 ##  Author
 
-Made by **[Salah Ahmed](www.linkedin.com/in/saleh-ahmed-b99166266)**  
-Feel free to connect on [LinkedIn](www.linkedin.com/in/saleh-ahmed-b99166266)
+Made by saleh ahmed and mohamed ashraf 
 
 
 
